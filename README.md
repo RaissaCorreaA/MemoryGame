@@ -1,30 +1,34 @@
-# Getting Started with Create React App
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/RaissaCorreaA/desafio-framework.svg?style=for-the-badge
+[contributors-url]: https://github.com/RaissaCorreaA/desafio-framework/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RaissaCorreaA/desafio-framework.svg?style=for-the-badge
+[forks-url]: https://github.com/RaissaCorreaA/desafio-framework/network/members
+[stars-shield]: https://img.shields.io/github/stars/RaissaCorreaA/desafio-framework.svg?style=for-the-badge
+[stars-url]: https://github.com//RaissaCorreaA/desafio-framework/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RaissaCorreaA/desafio-framework.svg?style=for-the-badge
+[issues-url]: https://github.com/RaissaCorreaA/desafio-framework/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/raissacorrea25/
 
-## Available Scripts
+## Memory Game
 
-In the project directory, you can run:
+Memory game built with React.
 
-### `npm start`
+- Try the application live at https://studio-ghibli-game.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+Install the required dependencies and run reapp
+```
+npm install
+reapp run
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
